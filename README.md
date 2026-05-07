@@ -58,20 +58,21 @@ curl -fsSL https://raw.githubusercontent.com/vladburba/dns-routing-manager/main/
 
 ## 💼 About Me
 
-🔧 **DevOps Engineer** passionate about networking automation and system optimization
+🔧 **Влад Бурба** — инфра-инженер. Собираю решения, которые держат прод и думают сами.
 
-### 🛠️ Skills & Technologies:
-- **Languages:** Python, Bash, YAML
-- **DevOps:** CI/CD, Infrastructure as Code, Automation
-- **Networking:** VPN, DNS, Routing, Network Security  
-- **Systems:** macOS, Linux, Command Line Tools
-- **Tools:** Git, GitHub Actions, Docker, Ansible
+**20+ лет** с серверами, сетями, телефонией и мониторингом — знаю, как ведут себя системы под нагрузкой и почему они ломаются ночью.
 
-### 🎯 Current Focus:
-- Network automation and intelligent routing
-- DevOps best practices and CI/CD pipelines
-- System administration and infrastructure management
-- Open source development and community contribution
+Сейчас собираю **AI-инженерную практику**: Python, Claude Code, интеграции LLM с реальными API и инфраструктурой. Связка **инфра + AI** даёт автоматизации, которые не падают на проде.
+
+Ищу проекты на стыке — миграции, AI-автоматизации, интеграции систем. В формате **найма или консалтинга**.
+
+### 🛠️ Что умею:
+- 🔧 **Поддержка и миграции инфры**
+- 🤖 **AI-автоматизации в проде**
+- 🔌 **Интеграции** — LLM, API, Agents
+
+### 🏗️ Stack:
+**Python** · **Claude Code** · **Docker** · **Linux** · **n8n** · **Telegram Bot API** · **WireGuard** · **GitHub Actions**
 
 ---
 
@@ -81,6 +82,8 @@ curl -fsSL https://raw.githubusercontent.com/vladburba/dns-routing-manager/main/
 
 ## 🔗 Connect with me:
 - 📧 Email: vlad.burba@gmail.com
+- 💬 Telegram: [@vladburba](https://t.me/vladburba)
+- 🌐 Landing page: [vladburba.github.io/landing-page](https://vladburba.github.io/landing-page/)
 
 ---
 
